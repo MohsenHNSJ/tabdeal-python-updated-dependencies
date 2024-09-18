@@ -25,7 +25,7 @@ logger = logging.getLogger(__name__)
 
 class Client(object):
     """
-    Tabdeal API Client
+    Unofficial Tabdeal API Client
 
     Keyword Args:
         base_url (str, optional): API Base URL. Default: https://api.tabdeal.org
